@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📓 Atualmente estou aprendendo mais sobre Python <br>📚 Bacharelado em Ciências da Computação - UERN Mossoró <br>🎯 Objetivo: Especializar em alguma área<br>👨‍⚖️ Em busca do primeiro emprego</p>
+<p align="left">📓 Atualmente estou aprendendo mais sobre Python <br>📚 Bacharelado em Ciências da Computação - UERN Mossoró <br>🎯 Objetivo: Viver o presente<br>👨‍⚖️ Em busca do primeiro emprego</p>
 
 ###
 
