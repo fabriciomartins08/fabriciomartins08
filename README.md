@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Antonio Fabrício Martins de Lima</p>
+<p align="left">Meu nome é Antonio Fabrício Martins de Lima, moro em Mossoró - RN e sou um dev júnior 😀</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📓 Atualmente estou aprendendo mais sobre Python <br>📚 Bacharelado em Ciências da Computação - UERN Mossoró <br>🎯 Objetivo: Viver o presente<br>👨‍⚖️ Em busca do primeiro emprego</p>
+<p align="left">📓 Atualmente estou aprendendo mais sobre Python <br>📚 Bacharelado em Ciências da Computação - UERN Mossoró <br>🎮 Participei do desenvolvimento do jogo Cycles Eternal na plataforma Unity<br>📦 Colaborei com o progresso de desenvolvimento de uma API de armazenamento de Livros<br>📄 Realizei tutoriais no sistema SIGAA - UERN<br>🏆 Contribui na organização e desenvolvimento dos 3 primeiros campeonatos de jogos virtuais CACC - UERN em colaboração com a Riot Games<br>🎯 Objetivo: Viver o presente<br>👨‍⚖️ Em busca do primeiro emprego</p>
 
 ###
 
@@ -31,5 +31,20 @@
 ###
 
 <p align="left">Hello World!!</p>
+
+###
+
+<h2 align="left">Redes Sociais</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+<h6 align="left">https://www.facebook.com/fabricio.martins.7921/<br>https://www.instagram.com/fabriciomt8/</h6>
 
 ###
