@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Meu nome é Antonio Fabrício Martins de Lima, moro em Mossoró - RN e sou um dev júnior 😀</p>
+<p align="left">Meu nome é Antonio Fabrício Martins de Lima, moro em Mossoró - RN e sou desenvolvedor com base teórica e prática em desenvolvimento de software. Possuo experiência em linguagens de programação como Python e Java, além de habilidades em gerenciamento e manipulação de bancos de dados com MySQL. Além de, tratamentos e extorsão de  dados com SQL, Excel com acréscimo de criação de dashboards através do PowerBI. Durante minha formação, trabalhei em projetos acadêmicos que envolvem análise de dados, desenvolvimento de sistemas e resolução de problemas complexos. Comprometido com a aprendizagem contínua, tenho facilidade em adaptar-me a novas tecnologias e trabalhar de forma colaborativa em equipes multidisciplinares.
+</p>
 
 ###
 
